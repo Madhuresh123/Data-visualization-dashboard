@@ -1,0 +1,7 @@
+mongoDB app password = vSZLl0S5yL4hMOET
+username = madhuresh91394
+
+madhureshAPI
+
+
+mongodb+srv://madhuresh91394:<password>@madhureshapi.vibkmok.mongodb.net/?retryWrites=true&w=majority

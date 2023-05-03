@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.app_body{
+
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.dropdown-menu{
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.menu-section{
+  display: flex;
+  justify-content: space-evenly;
+}
